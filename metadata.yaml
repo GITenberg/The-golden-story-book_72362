@@ -1,0 +1,48 @@
+_repo: The-golden-story-book_72362
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Braine, Sheila
+    gutenberg_agent_id: '56654'
+    url: http://www.gutenberg.org/2009/agents/56654
+  - agent_name: Fenn, George Manville
+    aliases:
+    - Fenn, G. M. (George Manville)
+    - Fenn, G. Manville (George Manville)
+    birthdate: 1831
+    deathdate: 1909
+    gutenberg_agent_id: '3840'
+    url: http://www.gutenberg.org/2009/agents/3840
+    wikipedia: https://en.wikipedia.org/wiki/George_Manville_Fenn
+  - agent_name: Henty, G. A. (George Alfred)
+    aliases:
+    - Henty, George Alfred
+    - Henty, G.A.
+    birthdate: 1832
+    deathdate: 1902
+    gutenberg_agent_id: '1032'
+    url: http://www.gutenberg.org/2009/agents/1032
+    wikipedia: https://en.wikipedia.org/wiki/G._A._Henty
+  - agent_name: Parry, D. H.
+    gutenberg_agent_id: '32407'
+    url: http://www.gutenberg.org/2009/agents/32407
+  - agent_name: Weedon, L. L.
+    gutenberg_agent_id: '56655'
+    url: http://www.gutenberg.org/2009/agents/56655
+description: ''
+gutenberg_issued: '2023-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72362'
+language: en
+pgterms:marc905: 20231201105620fenn
+pgterms:marc906: '1913'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bErnest Nister; E. P. Dutton & Co., $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The golden story book
+url: http://www.gutenberg.org/ebooks/72362
